@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **react native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammad-hassani](https://github.com/mohammad-hassani)
+- 👨‍💻 All of my projects are available at [github.com/mohammad-hassani](https://github.com/mohammad-hassani)
 
 - 💬 Ask me about **html,css,js and etc**
 
 - 📫 How to reach me: **hasani9821.mh@gmail.com**
 
-- 📝 I regularly write articles on: https://dev.to/mohammadhassani 
+- 📝 I regularly write articles on: [dev.to/mohammadhassani](https://dev.to/mohammadhassani)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
