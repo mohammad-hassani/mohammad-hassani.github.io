@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mistr_mohandes" target="blank"><img src="https://img.shields.io/twitter/follow/mistr_mohandes?logo=twitter&style=for-the-badge" alt="mistr_mohandes" /></a> </p>
 
-- 🔭 I’m currently working on [vasetkala](@vasetkala)
+- 🔭 I’m currently working on [vasetkala](https://github.com/Vasetkala)
 
 - 🌱 I’m currently learning **react native**
 
@@ -15,11 +15,9 @@
 
 - 💬 Ask me about **html,css,js and etc**
 
-- 📫 How to reach me **hasani9821.mh@gmail.com**
+- 📫 How to reach me: **hasani9821.mh@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📝 I regularly write articles on: https://dev.to/mohammadhassani 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
