@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/59317946?v=4" style="border-radius:50%" alt="mohammad hassani" width="400" height="400"/> 
+  <img src="https://avatars.githubusercontent.com/u/59317946?v=4" style="border-radius:50%" alt="mohammad hassani" width="200" height="200"/> 
 </p>
 <h1 align="center">Hi 👋, I'm Mohammad Hassani</h1>
 
