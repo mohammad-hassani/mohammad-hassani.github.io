@@ -7,9 +7,9 @@
    Last modification: 02/06/2023
 */
 
-import React, {useState } from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import {styles} from '../../styles.js';
+import { styles } from "../../styles.js";
 import { navLinks } from "../../Constants/constants";
 import { bl33hIcon, menu, close } from "../../assets";
 
@@ -33,11 +33,23 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={bl33hIcon} alt={bl33hIcon} className="w-18 h-9 object-contain" />
-          <p className="text-white text-[18px] font-bold cursor-pointer flex">
-          </p>
+          <img
+            src={bl33hIcon}
+            alt={bl33hIcon}
+            className="w-18 h-9 object-contain"
+          />
+          <p className="text-white text-[18px] font-bold cursor-pointer flex"></p>
         </Link>
-        <ul className="list-none hidden sm:flex flex-row gap-10"  style={{ color: '#FFFFFF' }}>
+        <ul
+          className="list-none hidden sm:flex flex-row gap-10"
+          style={{ color: "#FFFFFF" }}
+        >
+          <li
+            className="text-secondary
+                hover:text-white text-[18px] font-medium cursor-pointer"
+          >
+            <a href="/blog">blog</a>
+          </li>
           {navLinks.map((link) => {
             return (
               <li
@@ -54,7 +66,7 @@ const Navbar = () => {
         </ul>
         <div className="sm:hidden flex flex-1 justify-end items-center">
           <img
-            className="w-[28ox] h-[28px] pbject-contain cursor-pointer z-20 " 
+            className="w-[28ox] h-[28px] pbject-contain cursor-pointer z-20 "
             onClick={() => setToggle(!toggle)}
             src={toggle ? close : menu}
             alt={menu}
