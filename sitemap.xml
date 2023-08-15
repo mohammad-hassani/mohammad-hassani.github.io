@@ -7,11 +7,11 @@
   </url>
   <url>
     <loc>https://hasani.id.ir/blog</loc>
-    <lastmod>2023-08-14</lastmod>
+    <lastmod>2023-08-15</lastmod>
   </url>
   <url>
     <loc>https://hasani.id.ir/blog/posts</loc>
-    <lastmod>2023-08-14</lastmod>
+    <lastmod>2023-08-15</lastmod>
   </url>
   <url>
     <loc>https://hasani.id.ir/blog/posts/power-of_component-reusability-in-react</loc>
@@ -41,5 +41,9 @@
   <url>
     <loc>https://hasani.id.ir/blog/posts/effective-form-handling-in-react</loc>
     <lastmod>2023-08-14</lastmod>
+  </url>
+    <url>
+    <loc>https://hasani.id.ir/blog/posts/optimizing-performance-in-react-applications</loc>
+    <lastmod>2023-08-15</lastmod>
   </url>
 </urlset>
